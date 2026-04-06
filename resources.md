@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Resources — Python, Pygame & more"
+title: "Resources - Python, Pygame & more"
 permalink: /resources/
 ---
 
@@ -15,7 +15,7 @@ Links to free guides, docs, and tutorials for learning Python, Pygame, Discord b
 **[Official Python Tutorial](https://docs.python.org/3/tutorial/)**  
 The official tutorial from the Python team. Clear and thorough; good once you’ve done the basics.
 
-**[Python.org — Getting Started](https://www.python.org/about/gettingstarted/)**  
+**[Python.org - Getting Started](https://www.python.org/about/gettingstarted/)**  
 Short overview of installing Python and running your first program.
 
 **[Python for Beginners](https://wiki.python.org/moin/BeginnersGuide)**  
@@ -27,7 +27,7 @@ Articles and tutorials on Python basics and beyond. Some free, some paid; search
 **[LearnPython.org](https://www.learnpython.org/)**  
 Free interactive lessons in the browser. No install needed.
 
-**[Codecademy — Learn Python 3](https://www.codecademy.com/learn/learn-python-3)**  
+**[Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)**  
 Structured, interactive course. Free tier available.
 
 ---
@@ -37,19 +37,19 @@ Structured, interactive course. Free tier available.
 **[Pygame Documentation](https://www.pygame.org/docs/)**  
 Official Pygame reference. Use it to look up functions, events, and modules.
 
-**[Pygame Wiki — Getting Started](https://www.pygame.org/wiki/GettingStarted)**  
+**[Pygame Wiki - Getting Started](https://www.pygame.org/wiki/GettingStarted)**  
 Installation and a minimal “hello world” style game loop.
 
-**[Nerd Paradise — Pygame Tutorial](https://nerdparadise.com/programming/pygame)**  
+**[Nerd Paradise - Pygame Tutorial](https://nerdparadise.com/programming/pygame)**  
 Step-by-step tutorial: window, shapes, movement, and simple game ideas.
 
-**[Real Python — Pygame](https://realpython.com/tag/pygame/)**  
+**[Real Python - Pygame](https://realpython.com/tag/pygame/)**  
 Articles on Pygame: sprites, collision, sound, and building small games.
 
 **[Making Games with Python & Pygame](https://inventwithpython.com/pygame/)**  
 Free online book by Al Sweigart. Build several games from scratch with full code and explanations.
 
-**[Kids Can Code — Pygame tutorials](https://kidscancode.org/lessons/)**  
+**[Kids Can Code - Pygame tutorials](https://kidscancode.org/lessons/)**  
 Beginner-friendly Pygame and game-dev lessons aimed at younger learners.
 
 ---
@@ -59,7 +59,7 @@ Beginner-friendly Pygame and game-dev lessons aimed at younger learners.
 **[discord.py Documentation](https://discordpy.readthedocs.io/)**  
 Official docs for the discord.py library. Reference for commands, events, and the bot API.
 
-**[Real Python — How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/)**  
+**[Real Python - How to Make a Discord Bot](https://realpython.com/how-to-make-a-discord-bot-python/)**  
 Guide to creating a Discord bot with Python: setup, commands, and hosting basics.
 
 **[Discord Developer Portal](https://discord.com/developers/docs/intro)**  
@@ -78,20 +78,20 @@ Flask is a small framework for building web apps in Python. Good first step into
 **[Django Documentation](https://docs.djangoproject.com/)**  
 Django is a full-featured framework for bigger web projects (sites, APIs, admin panels).
 
-**[Real Python — Web Development](https://realpython.com/tutorials/web-dev/)**  
+**[Real Python - Web Development](https://realpython.com/tutorials/web-dev/)**  
 Tutorials on Flask, Django, and related topics (APIs, deployment).
 
 ---
 
 ## Data & APIs
 
-**[Requests — HTTP for Humans](https://requests.readthedocs.io/)**  
+**[Requests - HTTP for Humans](https://requests.readthedocs.io/)**  
 Library for sending HTTP requests (e.g. calling APIs, downloading pages). Simple and widely used.
 
 **[Pandas Documentation](https://pandas.pydata.org/docs/)**  
 Pandas is for working with tables and data (CSV, Excel, filtering, plotting). Great for data exploration.
 
-**[Real Python — Working With APIs](https://realpython.com/python-api/)**  
+**[Real Python - Working With APIs](https://realpython.com/python-api/)**  
 Introduction to what an API is and how to use one from Python.
 
 ---
@@ -104,7 +104,7 @@ Free online book by Al Sweigart. Scripts for files, spreadsheets, web scraping, 
 **[Python Packaging User Guide](https://packaging.python.org/)**  
 How to install packages with pip and create your own. Useful once you use more libraries.
 
-**[PyPI — Python Package Index](https://pypi.org/)**  
+**[PyPI - Python Package Index](https://pypi.org/)**  
 Search for Python packages (e.g. pygame, discord.py, flask). Install with `pip install <name>`.
 
 ---

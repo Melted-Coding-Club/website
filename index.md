@@ -5,7 +5,7 @@ title: Coding Club
 
 # Coding Club
 
-Welcome to Coding Club. Work through the lessons below to learn programming step by step — from no experience to building a simple game like Chrome Dino in Pygame.
+Welcome to Coding Club. Work through the lessons below to learn programming step by step - from no experience to building a simple game like Chrome Dino in Pygame.
 
 **[→ Resources: Python, Pygame, Discord & more]({{ site.baseurl }}/resources/)**
 
