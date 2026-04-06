@@ -17,7 +17,7 @@ base = int(input("base: "))
 exp = int(input("exponent (>=0): "))
 result = 1
 
-for _ in range(exp):
+for repeat in range(exp):
     result *= base
 
 print(result)

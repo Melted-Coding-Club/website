@@ -13,8 +13,8 @@ permalink: /tasks/2-19-solution/
 One possible program:
 
 ```python
-n = int(input("Pack size N: "))
+pack_size = int(input("Pack size N: "))
 
-for k in range(1, 13):
-    print(k, "x", n, "=", k * n)
+for multiplier in range(1, 13):
+    print(multiplier, "x", pack_size, "=", multiplier * pack_size)
 ```

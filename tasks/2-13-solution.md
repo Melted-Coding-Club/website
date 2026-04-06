@@ -18,10 +18,10 @@ import random
 count = 0
 
 while True:
-    num = random.randint(1, 10)
+    roll = random.randint(1, 10)
     count += 1
-    print(num)
-    if num == 7:
+    print(roll)
+    if roll == 7:
         break
 
 print("It took", count, "attempts")

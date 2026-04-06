@@ -13,11 +13,11 @@ permalink: /tasks/2-20-solution/
 One possible program:
 
 ```python
-n = int(input("N: "))
+factorial_input = int(input("N: "))
 result = 1
 
-for i in range(1, n + 1):
-    result *= i
+for factor in range(1, factorial_input + 1):
+    result *= factor
 
-print(n, "!=", result)
+print(factorial_input, "!=", result)
 ```

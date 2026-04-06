@@ -14,7 +14,6 @@ Learn Python from your first lines of code to a small Pygame runner game. Everyt
 3. **Tutorials** - Optional guided projects spanning multiple steps. Open these when you want to build something bigger.
 
 **[Resources]({{ site.baseurl }}/resources/)** - Python, Pygame, install tips, and more  
-**[AI use]({{ site.baseurl }}/ai-use/)** - This site is a personal teaching resource; I use Cursor and am open about AI-assisted preparation
 
 ---
 
@@ -54,9 +53,14 @@ Read these in sequence within each unit before moving on.
 ---
 
 ## Practice tasks
+
 ### Unit 2
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - Many short programs: menus, games, maths stories, and challenges, all with solutions.
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - Conditionals, loops, and `input`: menus, games, maths stories, and stretch problems, each with a solution page.
+
+### Unit 3
+
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - Lists and dictionaries: playlists, tallies, menus, slices, and a mixed list-plus-dict voting task, each with a solution page.
 
 ---
 

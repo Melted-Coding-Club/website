@@ -13,8 +13,8 @@ permalink: /tasks/2-49-solution/
 One possible program:
 
 ```python
-for r in range(1, 13):
-    for c in range(1, 13):
-        print(r * c, end="\t")
+for row in range(1, 13):
+    for col in range(1, 13):
+        print(row * col, end="\t")
     print()
 ```

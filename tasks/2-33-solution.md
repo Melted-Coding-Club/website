@@ -18,11 +18,11 @@ import random
 rolls = 0
 
 while True:
-    d1 = random.randint(1, 6)
-    d2 = random.randint(1, 6)
+    first_die = random.randint(1, 6)
+    second_die = random.randint(1, 6)
     rolls += 1
-    print(d1, d2)
-    if d1 == d2:
+    print(first_die, second_die)
+    if first_die == second_die:
         break
 
 print("Rolls until doubles:", rolls)

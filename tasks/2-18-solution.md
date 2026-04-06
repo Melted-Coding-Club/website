@@ -16,10 +16,10 @@ One possible program:
 total = 0.0
 
 while True:
-    d = float(input("Donation amount (0 to finish): "))
-    if d == 0:
+    donation = float(input("Donation amount (0 to finish): "))
+    if donation == 0:
         break
-    total += d
+    total += donation
 
 print("Total raised:", total)
 ```

@@ -17,11 +17,11 @@ import random
 
 score = 0
 
-for q in range(5):
-    a = random.randint(1, 10)
-    b = random.randint(1, 10)
-    ans = int(input(f"What is {a} + {b}? "))
-    if ans == a + b:
+for question_number in range(5):
+    first_number = random.randint(1, 10)
+    second_number = random.randint(1, 10)
+    user_answer = int(input(f"What is {first_number} + {second_number}? "))
+    if user_answer == first_number + second_number:
         score += 1
 
 print("You scored", score, "out of 5")

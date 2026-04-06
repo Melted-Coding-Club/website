@@ -13,11 +13,11 @@ permalink: /tasks/2-41-solution/
 One possible program:
 
 ```python
-a = int(input("a: "))
-b = int(input("b: "))
+first = int(input("First number: "))
+second = int(input("Second number: "))
 
-while b != 0:
-    a, b = b, a % b
+while second != 0:
+    first, second = second, first % second
 
-print("GCD is", a)
+print("GCD is", first)
 ```

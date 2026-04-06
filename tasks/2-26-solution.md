@@ -14,13 +14,13 @@ One possible program:
 
 ```python
 while True:
-    h = float(input("Height (m): "))
-    w = float(input("Weight (kg): "))
-    if h > 0 and w > 0:
+    height_meters = float(input("Height (m): "))
+    weight_kg = float(input("Weight (kg): "))
+    if height_meters > 0 and weight_kg > 0:
         break
     print("Height and weight must be positive.")
 
-bmi = w / (h * h)
+bmi = weight_kg / (height_meters * height_meters)
 print("BMI:", round(bmi, 2))
 
 if bmi < 18.5:

@@ -13,9 +13,9 @@ permalink: /tasks/2-8-solution/
 One possible program:
 
 ```python
-n = int(input("Number of items: "))
+item_count = int(input("Number of items: "))
 
-if n % 2 == 0:
+if item_count % 2 == 0:
     print("Even - boxes pack evenly.")
 else:
     print("Odd - one item left over.")

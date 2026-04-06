@@ -13,9 +13,9 @@ permalink: /tasks/2-7-solution/
 One possible program:
 
 ```python
-t = float(input("Morning temperature (C): "))
+temp_celsius = float(input("Morning temperature (C): "))
 
-if t <= 0:
+if temp_celsius <= 0:
     print("At or below freezing - ice is possible.")
 else:
     print("Above freezing.")

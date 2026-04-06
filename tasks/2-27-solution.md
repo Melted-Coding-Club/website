@@ -14,7 +14,7 @@ One possible program:
 
 ```python
 for day in range(7):
-    c = float(input("Celsius for day " + str(day + 1) + ": "))
-    f = c * 9 / 5 + 32
-    print("Day", day + 1, ":", c, "C =", round(f, 1), "F")
+    celsius = float(input("Celsius for day " + str(day + 1) + ": "))
+    fahrenheit = celsius * 9 / 5 + 32
+    print("Day", day + 1, ":", celsius, "C =", round(fahrenheit, 1), "F")
 ```

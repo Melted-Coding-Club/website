@@ -18,8 +18,8 @@ balance = 0.0
 weeks = 0
 
 while balance < goal:
-    dep = float(input("Saved this week ($): "))
-    balance += dep
+    weekly_savings = float(input("Saved this week ($): "))
+    balance += weekly_savings
     weeks += 1
 
 print("Goal reached in", weeks, "weeks. Balance:", balance)

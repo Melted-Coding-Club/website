@@ -13,15 +13,15 @@ permalink: /tasks/2-30-solution/
 One possible program:
 
 ```python
-n = int(input("N: "))
+max_label = int(input("N: "))
 
-for i in range(1, n + 1):
-    if i % 3 == 0 and i % 5 == 0:
+for label_number in range(1, max_label + 1):
+    if label_number % 3 == 0 and label_number % 5 == 0:
         print("FizzBuzz")
-    elif i % 3 == 0:
+    elif label_number % 3 == 0:
         print("Fizz")
-    elif i % 5 == 0:
+    elif label_number % 5 == 0:
         print("Buzz")
     else:
-        print(i)
+        print(label_number)
 ```

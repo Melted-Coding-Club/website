@@ -17,13 +17,13 @@ capacity = float(input("Van capacity (kg): "))
 load = 0.0
 
 while True:
-    w = float(input("Next package kg (0 to finish): "))
-    if w == 0:
+    package_weight = float(input("Next package kg (0 to finish): "))
+    if package_weight == 0:
         break
-    if load + w > capacity:
+    if load + package_weight > capacity:
         print("Overloaded - cannot load")
         break
-    load += w
+    load += package_weight
 
 print("Final load (kg):", load)
 if load >= capacity:

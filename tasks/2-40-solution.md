@@ -13,10 +13,11 @@ permalink: /tasks/2-40-solution/
 One possible program:
 
 ```python
-n = int(input("How many Fibonacci terms: "))
-a, b = 1, 1
+term_count = int(input("How many Fibonacci terms: "))
+previous_term = 1
+current_term = 1
 
-for i in range(n):
-    print(a)
-    a, b = b, a + b
+for term_index in range(term_count):
+    print(previous_term)
+    previous_term, current_term = current_term, previous_term + current_term
 ```

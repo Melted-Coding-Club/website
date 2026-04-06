@@ -22,14 +22,14 @@ user_w = 0
 cpu_w = 0
 
 while user_w < 3 and cpu_w < 3:
-    u = input("Your play (r/p/s): ").lower().strip()
-    while u not in choices:
-        u = input("Type r, p, or s: ").lower().strip()
-    c = random.choice(choices)
-    print("Computer:", c)
-    if u == c:
+    user_choice = input("Your play (r/p/s): ").lower().strip()
+    while user_choice not in choices:
+        user_choice = input("Type r, p, or s: ").lower().strip()
+    computer_choice = random.choice(choices)
+    print("Computer:", computer_choice)
+    if user_choice == computer_choice:
         print("Tie - no point.")
-    elif beats[u] == c:
+    elif beats[user_choice] == computer_choice:
         print("You win the round.")
         user_w += 1
     else:

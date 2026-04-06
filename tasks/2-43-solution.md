@@ -13,12 +13,12 @@ permalink: /tasks/2-43-solution/
 One possible program:
 
 ```python
-n = int(input("Positive ID: "))
+sale_id = int(input("Positive ID: "))
 digits = 0
-x = n
+remaining = sale_id
 
-while x > 0:
-    x //= 10
+while remaining > 0:
+    remaining //= 10
     digits += 1
 
 print("Digits:", digits)

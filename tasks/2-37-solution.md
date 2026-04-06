@@ -15,16 +15,16 @@ One possible program:
 ```python
 import random
 
-a = random.randint(1, 10)
-b = random.randint(1, 10)
-product = a * b
+first_factor = random.randint(1, 10)
+second_factor = random.randint(1, 10)
+product = first_factor * second_factor
 
 while True:
-    g = int(input("Guess the product (two secret numbers 1-10): "))
-    if g == product:
-        print("Correct! It was", a, "x", b)
+    user_guess = int(input("Guess the product (two secret numbers 1-10): "))
+    if user_guess == product:
+        print("Correct! It was", first_factor, "x", second_factor)
         break
-    if g < product:
+    if user_guess < product:
         print("Too low")
     else:
         print("Too high")

@@ -13,8 +13,8 @@ permalink: /tasks/2-48-solution/
 One possible program:
 
 ```python
-n = int(input("Rows: "))
+row_count = int(input("Rows: "))
 
-for row in range(1, n + 1):
+for row in range(1, row_count + 1):
     print("*" * row)
 ```

@@ -13,11 +13,11 @@ permalink: /tasks/2-45-solution/
 One possible program:
 
 ```python
-n = int(input("n: "))
+layer_count = int(input("n: "))
 total = 0
 
-for k in range(1, n + 1):
-    total += k * k
+for layer in range(1, layer_count + 1):
+    total += layer * layer
 
 print("Sum of squares:", total)
 ```

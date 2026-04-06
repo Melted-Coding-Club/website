@@ -15,7 +15,7 @@ One possible program:
 ```python
 largest = None
 
-for i in range(5):
+for day_index in range(5):
     temp = float(input("Enter high temperature (C): "))
     if largest is None or temp > largest:
         largest = temp

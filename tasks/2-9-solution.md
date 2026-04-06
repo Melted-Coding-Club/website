@@ -13,8 +13,8 @@ permalink: /tasks/2-9-solution/
 One possible program:
 
 ```python
-n = int(input("Minutes until departure: "))
+minutes_until_departure = int(input("Minutes until departure: "))
 
-for m in range(n, 0, -1):
-    print(m)
+for remaining_minutes in range(minutes_until_departure, 0, -1):
+    print(remaining_minutes)
 ```

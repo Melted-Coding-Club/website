@@ -13,11 +13,11 @@ permalink: /tasks/2-31-solution/
 One possible program:
 
 ```python
-n = int(input("n (>=2): "))
+number_to_check = int(input("n (>=2): "))
 is_prime = True
 
-for d in range(2, n):
-    if n % d == 0:
+for divisor in range(2, number_to_check):
+    if number_to_check % divisor == 0:
         is_prime = False
         break
 

@@ -13,11 +13,11 @@ permalink: /tasks/2-10-solution/
 One possible program:
 
 ```python
-n = int(input("N (number of sheets): "))
+sheet_count = int(input("N (number of sheets): "))
 total = 0
 
-for i in range(1, n + 1):
-    total += i
+for sheet_number in range(1, sheet_count + 1):
+    total += sheet_number
 
 print("Total stickers:", total)
 ```

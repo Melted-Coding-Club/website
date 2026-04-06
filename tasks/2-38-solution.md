@@ -17,13 +17,13 @@ total = 0.0
 count = 0
 
 while True:
-    m = float(input("Mark (-1 to finish): "))
-    if m == -1:
+    mark = float(input("Mark (-1 to finish): "))
+    if mark == -1:
         print("Done")
         break
-    if 0 <= m <= 100:
+    if 0 <= mark <= 100:
         count += 1
-        total += m
+        total += mark
         print("Running average:", total / count)
     else:
         print("Ignored - mark must be 0..100")

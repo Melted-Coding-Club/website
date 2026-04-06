@@ -13,13 +13,13 @@ permalink: /tasks/2-44-solution/
 One possible program:
 
 ```python
-n = int(input("Positive code: "))
-rev = 0
-x = n
+original_code = int(input("Positive code: "))
+reversed_code = 0
+remaining = original_code
 
-while x > 0:
-    rev = rev * 10 + (x % 10)
-    x //= 10
+while remaining > 0:
+    reversed_code = reversed_code * 10 + (remaining % 10)
+    remaining //= 10
 
-print("Reversed:", rev)
+print("Reversed:", reversed_code)
 ```
