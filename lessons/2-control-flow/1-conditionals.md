@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2.1 Conditionals"
-permalink: /lessons/2.1-conditionals/
+permalink: /lessons/2-control-flow/1-conditionals/
 ---
 
 # 2.1 Conditionals
@@ -72,8 +72,8 @@ Only one of these blocks runs: the first condition that is True.
 
 **Navigation**
 
-- **Previous:** [1.3 Operators]({{ site.baseurl }}/lessons/1.3-operators/)
-- **Next:** [2.2 Loops]({{ site.baseurl }}/lessons/2.2-loops/)
+- **Previous:** [1.3 Operators]({{ site.baseurl }}/lessons/1-basics/3-operators/)
+- **Next:** [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

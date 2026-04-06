@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "2.2 Loops"
-permalink: /lessons/2.2-loops/
+permalink: /lessons/2-control-flow/2-loops/
 ---
 
 # 2.2 Loops
@@ -81,8 +81,8 @@ while True:
 
 **Navigation**
 
-- **Previous:** [2.1 Conditionals]({{ site.baseurl }}/lessons/2.1-conditionals/)
-- **Next:** [3.1 Lists and arrays]({{ site.baseurl }}/lessons/3.1-lists-and-arrays/)
+- **Previous:** [2.1 Conditionals]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/)
+- **Next:** [3.1 Lists and arrays]({{ site.baseurl }}/lessons/3-data-structures/1-lists-and-arrays/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

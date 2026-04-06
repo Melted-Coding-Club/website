@@ -23,32 +23,32 @@ Read these in sequence within each unit before moving on.
 
 ### Unit 1 - Basics
 
-- **1.1** [Types of data]({{ site.baseurl }}/lessons/1.1-types-of-data/) - Integers, floats, strings, booleans, and checking types with `type()`.
-- **1.2** [Variables]({{ site.baseurl }}/lessons/1.2-variables/) - Naming values, assignment, `print()`, and `input()`.
-- **1.3** [Operators]({{ site.baseurl }}/lessons/1.3-operators/) - Maths, comparisons, and logical `and` / `or` / `not`.
+- **1.1** [Types of data]({{ site.baseurl }}/lessons/1-basics/1-types-of-data/) - Integers, floats, strings, booleans, and checking types with `type()`.
+- **1.2** [Variables]({{ site.baseurl }}/lessons/1-basics/2-variables/) - Naming values, assignment, `print()`, and `input()`.
+- **1.3** [Operators]({{ site.baseurl }}/lessons/1-basics/3-operators/) - Maths, comparisons, and logical `and` / `or` / `not`.
 
 ### Unit 2 - Control flow
 
-- **2.1** [Conditionals]({{ site.baseurl }}/lessons/2.1-conditionals/) - `if`, `elif`, `else`, and why indentation matters.
-- **2.2** [Loops]({{ site.baseurl }}/lessons/2.2-loops/) - `while`, `for`, `break`, `random`, and the higher-lower guessing game.
+- **2.1** [Conditionals]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) - `if`, `elif`, `else`, and why indentation matters.
+- **2.2** [Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/) - `while`, `for`, `break`, `random`, and the higher-lower guessing game.
 
 ### Unit 3 - Data structures
 
-- **3.1** [Lists and arrays]({{ site.baseurl }}/lessons/3.1-lists-and-arrays/) - Ordered collections, indexes, `append`, and looping.
-- **3.2** [Dictionaries and objects]({{ site.baseurl }}/lessons/3.2-dictionaries-and-objects/) - Key-value pairs, lookup, and `.get()`.
+- **3.1** [Lists and arrays]({{ site.baseurl }}/lessons/3-data-structures/1-lists-and-arrays/) - Ordered collections, indexes, `append`, and looping.
+- **3.2** [Dictionaries and objects]({{ site.baseurl }}/lessons/3-data-structures/2-dictionaries-and-objects/) - Key-value pairs, lookup, and `.get()`.
 
 ### Unit 4 - Functions
 
-- **4.1** [Defining functions]({{ site.baseurl }}/lessons/4.1-defining-functions/) - `def`, parameters, arguments, and `return`.
-- **4.2** [Scope and return values]({{ site.baseurl }}/lessons/4.2-scope-and-return-values/) - Where variables exist, passing data in and out, debugging tips.
+- **4.1** [Defining functions]({{ site.baseurl }}/lessons/4-functions/1-defining-functions/) - `def`, parameters, arguments, and `return`.
+- **4.2** [Scope and return values]({{ site.baseurl }}/lessons/4-functions/2-scope-and-return-values/) - Where variables exist, passing data in and out, debugging tips.
 
 ### Unit 5 - Pygame and your first game
 
-- **5.1** [Pygame setup and the game loop]({{ site.baseurl }}/lessons/5.1-debugging/) - Install Pygame, open a window, handle quit, redraw each frame.
-- **5.2** [Coordinates and drawing]({{ site.baseurl }}/lessons/5.2-projects/) - Screen coordinates, `Rect`, and drawing shapes.
-- **5.3** [Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5.3-keyboard-and-moving/) - Arrow keys, moving the player, staying on screen.
-- **5.4** [Collision and game logic]({{ site.baseurl }}/lessons/5.4-collision/) - `colliderect`, obstacles, and scrolling.
-- **5.5** [Building a runner game]({{ site.baseurl }}/lessons/5.5-runner-game/) - Jump, gravity, scoring, Chrome Dino-style loop.
+- **5.1** [Pygame setup and the game loop]({{ site.baseurl }}/lessons/5-pygame-basics/1-debugging/) - Install Pygame, open a window, handle quit, redraw each frame.
+- **5.2** [Coordinates and drawing]({{ site.baseurl }}/lessons/5-pygame-basics/2-projects/) - Screen coordinates, `Rect`, and drawing shapes.
+- **5.3** [Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5-pygame-basics/3-keyboard-and-moving/) - Arrow keys, moving the player, staying on screen.
+- **5.4** [Collision and game logic]({{ site.baseurl }}/lessons/5-pygame-basics/4-collision/) - `colliderect`, obstacles, and scrolling.
+- **5.5** [Building a runner game]({{ site.baseurl }}/lessons/5-pygame-basics/5-runner-game/) - Jump, gravity, scoring, Chrome Dino-style loop.
 
 ---
 

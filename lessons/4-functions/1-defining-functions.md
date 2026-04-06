@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "4.1 Defining functions"
-permalink: /lessons/4.1-defining-functions/
+permalink: /lessons/4-functions/1-defining-functions/
 ---
 
 # 4.1 Defining functions
@@ -71,8 +71,8 @@ Then at the bottom: `main()`.
 
 **Navigation**
 
-- **Previous:** [3.2 Dictionaries and objects]({{ site.baseurl }}/lessons/3.2-dictionaries-and-objects/)
-- **Next:** [4.2 Scope and return values]({{ site.baseurl }}/lessons/4.2-scope-and-return-values/)
+- **Previous:** [3.2 Dictionaries and objects]({{ site.baseurl }}/lessons/3-data-structures/2-dictionaries-and-objects/)
+- **Next:** [4.2 Scope and return values]({{ site.baseurl }}/lessons/4-functions/2-scope-and-return-values/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

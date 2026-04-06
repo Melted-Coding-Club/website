@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "1.3 Operators"
-permalink: /lessons/1.3-operators/
+permalink: /lessons/1-basics/3-operators/
 ---
 
 # 1.3 Operators
@@ -60,13 +60,13 @@ Ask the user for two numbers (use `int(input(...))`). Then print:
 
 **Navigation**
 
-- **Previous:** [1.2 Variables]({{ site.baseurl }}/lessons/1.2-variables/)
-- **Next:** [2.1 Conditionals]({{ site.baseurl }}/lessons/2.1-conditionals/)
+- **Previous:** [1.2 Variables]({{ site.baseurl }}/lessons/1-basics/2-variables/)
+- **Next:** [2.1 Conditionals]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - many problems use maths and comparisons (try after [2.1]({{ site.baseurl }}/lessons/2.1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2.2-loops/))
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - many problems use maths and comparisons (try after [2.1]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2-control-flow/2-loops/))
 
 **Tutorial**
 

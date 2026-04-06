@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5.1 Pygame setup and the game loop"
-permalink: /lessons/5.1-debugging/
+permalink: /lessons/5-pygame-basics/1-debugging/
 ---
 
 # 5.1 Pygame setup and the game loop
@@ -67,8 +67,8 @@ Anything you drew last time is gone after the fill; only what you draw this time
 
 **Navigation**
 
-- **Previous:** [4.2 Scope and return values]({{ site.baseurl }}/lessons/4.2-scope-and-return-values/)
-- **Next:** [5.2 Coordinates and drawing]({{ site.baseurl }}/lessons/5.2-projects/)
+- **Previous:** [4.2 Scope and return values]({{ site.baseurl }}/lessons/4-functions/2-scope-and-return-values/)
+- **Next:** [5.2 Coordinates and drawing]({{ site.baseurl }}/lessons/5-pygame-basics/2-projects/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

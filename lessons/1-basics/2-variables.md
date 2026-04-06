@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "1.2 Variables"
-permalink: /lessons/1.2-variables/
+permalink: /lessons/1-basics/2-variables/
 ---
 
 # 1.2 Variables
@@ -70,13 +70,13 @@ Whatever they type (until Enter) is stored as a **string**. If you want a number
 
 **Navigation**
 
-- **Previous:** [1.1 Types of data]({{ site.baseurl }}/lessons/1.1-types-of-data/)
-- **Next:** [1.3 Operators]({{ site.baseurl }}/lessons/1.3-operators/)
+- **Previous:** [1.1 Types of data]({{ site.baseurl }}/lessons/1-basics/1-types-of-data/)
+- **Next:** [1.3 Operators]({{ site.baseurl }}/lessons/1-basics/3-operators/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - challenges using `input`, numbers, and control flow (best after [2.2 Loops]({{ site.baseurl }}/lessons/2.2-loops/); good for revision later too)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - challenges using `input`, numbers, and control flow (best after [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/); good for revision later too)
 
 **Tutorial**
 

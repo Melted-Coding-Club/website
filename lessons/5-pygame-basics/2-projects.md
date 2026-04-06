@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5.2 Coordinates and drawing"
-permalink: /lessons/5.2-projects/
+permalink: /lessons/5-pygame-basics/2-projects/
 ---
 
 # 5.2 Coordinates and drawing
@@ -72,8 +72,8 @@ pygame.draw.rect(screen, (255, 0, 0), rect)
 
 **Navigation**
 
-- **Previous:** [5.1 Pygame setup and the game loop]({{ site.baseurl }}/lessons/5.1-debugging/)
-- **Next:** [5.3 Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5.3-keyboard-and-moving/)
+- **Previous:** [5.1 Pygame setup and the game loop]({{ site.baseurl }}/lessons/5-pygame-basics/1-debugging/)
+- **Next:** [5.3 Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5-pygame-basics/3-keyboard-and-moving/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

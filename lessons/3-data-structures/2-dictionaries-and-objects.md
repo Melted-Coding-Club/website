@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "3.2 Dictionaries and objects"
-permalink: /lessons/3.2-dictionaries-and-objects/
+permalink: /lessons/3-data-structures/2-dictionaries-and-objects/
 ---
 
 # 3.2 Dictionaries and objects
@@ -65,8 +65,8 @@ else:
 
 **Navigation**
 
-- **Previous:** [3.1 Lists and arrays]({{ site.baseurl }}/lessons/3.1-lists-and-arrays/)
-- **Next:** [4.1 Defining functions]({{ site.baseurl }}/lessons/4.1-defining-functions/)
+- **Previous:** [3.1 Lists and arrays]({{ site.baseurl }}/lessons/3-data-structures/1-lists-and-arrays/)
+- **Next:** [4.1 Defining functions]({{ site.baseurl }}/lessons/4-functions/1-defining-functions/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

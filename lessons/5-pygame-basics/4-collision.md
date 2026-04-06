@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5.4 Collision and game logic"
-permalink: /lessons/5.4-collision/
+permalink: /lessons/5-pygame-basics/4-collision/
 ---
 
 # 5.4 Collision and game logic
@@ -70,8 +70,8 @@ Then check collision after moving them.
 
 **Navigation**
 
-- **Previous:** [5.3 Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5.3-keyboard-and-moving/)
-- **Next:** [5.5 Building a runner game]({{ site.baseurl }}/lessons/5.5-runner-game/)
+- **Previous:** [5.3 Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5-pygame-basics/3-keyboard-and-moving/)
+- **Next:** [5.5 Building a runner game]({{ site.baseurl }}/lessons/5-pygame-basics/5-runner-game/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

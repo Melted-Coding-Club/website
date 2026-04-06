@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5.5 Building a runner game"
-permalink: /lessons/5.5-runner-game/
+permalink: /lessons/5-pygame-basics/5-runner-game/
 ---
 
 # 5.5 Building a runner game
@@ -63,7 +63,7 @@ You’ve gone from no coding to a playable game - keep iterating and adding idea
 
 **Navigation**
 
-- **Previous:** [5.4 Collision and game logic]({{ site.baseurl }}/lessons/5.4-collision/)
+- **Previous:** [5.4 Collision and game logic]({{ site.baseurl }}/lessons/5-pygame-basics/4-collision/)
 - **Next:** [Coding Club homepage]({{ site.baseurl }}/) (end of the lesson track - pick a tutorial or task set next)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 

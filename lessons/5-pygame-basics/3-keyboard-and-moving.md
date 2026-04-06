@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5.3 Keyboard input and moving a rect"
-permalink: /lessons/5.3-keyboard-and-moving/
+permalink: /lessons/5-pygame-basics/3-keyboard-and-moving/
 ---
 
 # 5.3 Keyboard input and moving a rect
@@ -85,8 +85,8 @@ Once this works, you’ve got a controllable character - next we add collision s
 
 **Navigation**
 
-- **Previous:** [5.2 Coordinates and drawing]({{ site.baseurl }}/lessons/5.2-projects/)
-- **Next:** [5.4 Collision and game logic]({{ site.baseurl }}/lessons/5.4-collision/)
+- **Previous:** [5.2 Coordinates and drawing]({{ site.baseurl }}/lessons/5-pygame-basics/2-projects/)
+- **Next:** [5.4 Collision and game logic]({{ site.baseurl }}/lessons/5-pygame-basics/4-collision/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

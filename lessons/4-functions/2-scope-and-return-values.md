@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "4.2 Scope and return values"
-permalink: /lessons/4.2-scope-and-return-values/
+permalink: /lessons/4-functions/2-scope-and-return-values/
 ---
 
 # 4.2 Scope and return values
@@ -73,8 +73,8 @@ Use the return values in your main loop to update score or state.
 
 **Navigation**
 
-- **Previous:** [4.1 Defining functions]({{ site.baseurl }}/lessons/4.1-defining-functions/)
-- **Next:** [5.1 Pygame setup and the game loop]({{ site.baseurl }}/lessons/5.1-debugging/)
+- **Previous:** [4.1 Defining functions]({{ site.baseurl }}/lessons/4-functions/1-defining-functions/)
+- **Next:** [5.1 Pygame setup and the game loop]({{ site.baseurl }}/lessons/5-pygame-basics/1-debugging/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**

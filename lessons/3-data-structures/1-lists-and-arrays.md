@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "3.1 Lists and arrays"
-permalink: /lessons/3.1-lists-and-arrays/
+permalink: /lessons/3-data-structures/1-lists-and-arrays/
 ---
 
 # 3.1 Lists and arrays
@@ -63,8 +63,8 @@ Get a range of items: `scores[1:3]` gives the items at index 1 and 2 (not 3). So
 
 **Navigation**
 
-- **Previous:** [2.2 Loops]({{ site.baseurl }}/lessons/2.2-loops/)
-- **Next:** [3.2 Dictionaries and objects]({{ site.baseurl }}/lessons/3.2-dictionaries-and-objects/)
+- **Previous:** [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/)
+- **Next:** [3.2 Dictionaries and objects]({{ site.baseurl }}/lessons/3-data-structures/2-dictionaries-and-objects/)
 - **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
 
 **Tasks**
