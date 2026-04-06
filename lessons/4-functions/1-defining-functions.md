@@ -77,8 +77,8 @@ Then at the bottom: `main()`.
 
 **Tasks**
 
-- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - good candidates to refactor with `def` once you know functions
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - shorter programs for practising `def` and `return`
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - good candidates to refactor with `def` once you know functions
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - shorter programs for practising `def` and `return`
 
 **Tutorial**
 

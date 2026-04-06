@@ -78,7 +78,7 @@ Only one of these blocks runs: the first condition that is True.
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - lots of practice with `if`, `elif`, and `else` (e.g. menus, grades, tickets; loops come in too on many pages)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - lots of practice with `if`, `elif`, and `else` (e.g. menus, grades, tickets; loops come in too on many pages)
 
 **Tutorial**
 

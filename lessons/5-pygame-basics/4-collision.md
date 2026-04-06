@@ -76,7 +76,7 @@ Then check collision after moving them.
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - optional; collision here is like combining conditions with movement
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - optional; collision here is like combining conditions with movement
 
 **Tutorial**
 

@@ -91,7 +91,7 @@ Once this works, you’ve got a controllable character - next we add collision s
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - optional revision (your game loop here is also a `while` with logic inside)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - optional revision (your game loop here is also a `while` with logic inside)
 
 **Tutorial**
 

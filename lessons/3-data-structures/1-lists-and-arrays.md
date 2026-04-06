@@ -69,8 +69,8 @@ Get a range of items: `scores[1:3]` gives the items at index 1 and 2 (not 3). So
 
 **Tasks**
 
-- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - lists, slicing, and loops (start after this lesson; dictionaries appear from task 11)
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - revision for loops and `input` before you add lists
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - lists, slicing, and loops (start after this lesson; dictionaries appear from task 11)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revision for loops and `input` before you add lists
 
 **Tutorial**
 

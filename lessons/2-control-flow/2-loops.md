@@ -87,7 +87,7 @@ while True:
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - full set of challenges for `while`, `for`, `break`, and `random` (including ideas like the **Higher-Lower** game and extensions)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - full set of challenges for `while`, `for`, `break`, and `random` (including ideas like the **Higher-Lower** game and extensions)
 
 **Tutorial**
 

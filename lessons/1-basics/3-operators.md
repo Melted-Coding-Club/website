@@ -66,7 +66,7 @@ Ask the user for two numbers (use `int(input(...))`). Then print:
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - many problems use maths and comparisons (try after [2.1]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2-control-flow/2-loops/))
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - many problems use maths and comparisons (try after [2.1]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2-control-flow/2-loops/))
 
 **Tutorial**
 

@@ -76,7 +76,7 @@ Whatever they type (until Enter) is stored as a **string**. If you want a number
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - challenges using `input`, numbers, and control flow (best after [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/); good for revision later too)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - challenges using `input`, numbers, and control flow (best after [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/); good for revision later too)
 
 **Tutorial**
 

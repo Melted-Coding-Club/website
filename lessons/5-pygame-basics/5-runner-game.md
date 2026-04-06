@@ -69,7 +69,7 @@ You’ve gone from no coding to a playable game - keep iterating and adding idea
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - revisit text Python challenges anytime
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revisit text Python challenges anytime
 
 **Tutorial**
 

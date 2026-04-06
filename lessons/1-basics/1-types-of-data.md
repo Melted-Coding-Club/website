@@ -68,7 +68,7 @@ Try printing a sentence that uses both text and a number (you can pass several t
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - coding challenges that use these ideas together with conditionals and loops (work through [2.1]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2-control-flow/2-loops/) first, then come back anytime for practice)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - coding challenges that use these ideas together with conditionals and loops (work through [2.1]({{ site.baseurl }}/lessons/2-control-flow/1-conditionals/) and [2.2]({{ site.baseurl }}/lessons/2-control-flow/2-loops/) first, then come back anytime for practice)
 
 **Tutorial**
 

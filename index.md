@@ -56,11 +56,11 @@ Read these in sequence within each unit before moving on.
 
 ### Unit 2
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - Conditionals, loops, and `input`: menus, games, maths stories, and stretch problems, each with a solution page.
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - Conditionals, loops, and `input`: menus, games, maths stories, and stretch problems, each with a solution page.
 
 ### Unit 3
 
-- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - Lists and dictionaries: playlists, tallies, menus, slices, and a mixed list-plus-dict voting task, each with a solution page.
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - Lists and dictionaries: playlists, tallies, menus, slices, and a mixed list-plus-dict voting task, each with a solution page.
 
 ---
 

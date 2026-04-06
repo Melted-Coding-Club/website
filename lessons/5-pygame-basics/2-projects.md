@@ -78,7 +78,7 @@ pygame.draw.rect(screen, (255, 0, 0), rect)
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - revision if you want more loop practice away from the game window
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revision if you want more loop practice away from the game window
 
 **Tutorial**
 

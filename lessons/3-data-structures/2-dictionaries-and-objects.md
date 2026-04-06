@@ -71,8 +71,8 @@ else:
 
 **Tasks**
 
-- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - dictionaries, counting, and list-plus-dict problems (tasks 11 onward focus on dicts)
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - revision for loops and conditionals
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - dictionaries, counting, and list-plus-dict problems (tasks 11 onward focus on dicts)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revision for loops and conditionals
 
 **Tutorial**
 

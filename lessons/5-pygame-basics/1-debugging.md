@@ -73,7 +73,7 @@ Anything you drew last time is gone after the fill; only what you draw this time
 
 **Tasks**
 
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - text-based Python practice (Pygame builds on the same ideas: loops, events, state)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - text-based Python practice (Pygame builds on the same ideas: loops, events, state)
 
 **Tutorial**
 

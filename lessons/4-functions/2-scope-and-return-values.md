@@ -79,8 +79,8 @@ Use the return values in your main loop to update score or state.
 
 **Tasks**
 
-- [Unit 3 tasks]({{ site.baseurl }}/tasks/3/) - refactor list and dictionary programs with small functions that return values
-- [Unit 2 tasks]({{ site.baseurl }}/tasks/2/) - shorter programs for return values and control flow before Pygame
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - refactor list and dictionary programs with small functions that return values
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - shorter programs for return values and control flow before Pygame
 
 **Tutorial**
 
