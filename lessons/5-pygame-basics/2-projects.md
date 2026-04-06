@@ -1,0 +1,85 @@
+---
+layout: default
+title: "5.2 Coordinates and drawing"
+permalink: /lessons/5-pygame-basics/2-projects/
+---
+
+# 5.2 Coordinates and drawing
+
+To draw and move things, you need to understand **coordinates** and **Rect** (rectangle) objects.
+
+## Pygame coordinates
+
+The screen uses the **bottom-left** part of a normal graph: x increases to the right, but **y increases downward**. So:
+
+- **(0, 0)** is the **top-left** corner of the window.
+- Moving **right** → x gets bigger.
+- Moving **down** → y gets bigger (the y-axis is flipped compared to maths).
+
+So “up” on the screen means **decreasing y**; “down” means **increasing y**.
+
+## Rect (rectangle) objects
+
+A **Rect** represents a rectangle: where it is and how big it is. You create one with position and size:
+
+```python
+# Four numbers: x, y, width, height
+rect = pygame.Rect(100, 150, 20, 20)
+
+# Or two tuples: (x, y) and (width, height)
+rect = pygame.Rect((200, 200), (20, 20))
+```
+
+So: **location_x**, **location_y**, **width**, **height**.
+
+## Reading and changing position
+
+You can read the position with:
+
+- `rect.x` and `rect.y`
+- Or `rect.left`, `rect.right`, `rect.top`, `rect.bottom` (edges)
+- `rect.centerx`, `rect.centery` (centre)
+
+You can **update** the position by assigning to these:
+
+```python
+rect.x = 50
+rect.y = 100
+# Or move relative to current position:
+rect.x += 5   # move 5 pixels right
+rect.y -= 3   # move 3 pixels up (y is flipped)
+```
+
+## Drawing the rect
+
+In your game loop, after `screen.fill(...)`:
+
+```python
+pygame.draw.rect(screen, (255, 0, 0), rect)
+```
+
+- First argument: surface (the screen).
+- Second: colour as (r, g, b), e.g. red = (255, 0, 0).
+- Third: the Rect.
+
+## Project: A square on the screen
+
+1. Create a Rect at (200, 200) with size (20, 20).
+2. In the game loop, fill the screen then draw the rect in a bright colour.
+3. Run the program and confirm you see one square that stays still (we’ll move it in the next lesson).
+
+---
+
+**Navigation**
+
+- **Previous:** [5.1 Pygame setup and the game loop]({{ site.baseurl }}/lessons/5-pygame-basics/1-debugging/)
+- **Next:** [5.3 Keyboard input and moving a rect]({{ site.baseurl }}/lessons/5-pygame-basics/3-keyboard-and-moving/)
+- **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
+
+**Tasks**
+
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revision if you want more loop practice away from the game window
+
+**Tutorial**
+
+- [Tutorial 5.2]({{ site.baseurl }}/tutorials/5-2/) - guided steps for this unit

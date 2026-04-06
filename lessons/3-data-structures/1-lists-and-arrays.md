@@ -1,0 +1,77 @@
+---
+layout: default
+title: "3.1 Lists and arrays"
+permalink: /lessons/3-data-structures/1-lists-and-arrays/
+---
+
+# 3.1 Lists and arrays
+
+A **list** holds multiple values in order. That’s useful for high scores, items, or anything you need to keep in a sequence.
+
+## Creating a list
+
+Use square brackets and commas:
+
+```python
+scores = [100, 85, 92, 78]
+names = ["Alex", "Sam", "Jordan"]
+mixed = [10, "hello", True]
+```
+
+## Indexing (position)
+
+Positions start at **0**, not 1:
+
+- First item: `scores[0]` → 100  
+- Second: `scores[1]` → 85  
+- Last: `scores[3]` → 78  
+
+You can also count from the end: `scores[-1]` is the last item, `scores[-2]` the second-to-last.
+
+## Changing and adding
+
+- Change a value: `scores[0] = 99`
+- Add at the end: `scores.append(88)`
+- Length: `len(scores)` → 5
+
+## Looping over a list
+
+```python
+for score in scores:
+    print(score)
+```
+
+Or with index:
+
+```python
+for i in range(len(scores)):
+    print("Position", i, ":", scores[i])
+```
+
+## Slicing
+
+Get a range of items: `scores[1:3]` gives the items at index 1 and 2 (not 3). So `[85, 92]`.
+
+## Mini project: High scores
+
+1. Start with a list of 5 scores.
+2. Print each score and its position (1st, 2nd, …).
+3. Add a new score with `append`.
+4. Print the highest score (you can use `max(scores)` or a loop).
+
+---
+
+**Navigation**
+
+- **Previous:** [2.2 Loops]({{ site.baseurl }}/lessons/2-control-flow/2-loops/)
+- **Next:** [3.2 Dictionaries and objects]({{ site.baseurl }}/lessons/3-data-structures/2-dictionaries-and-objects/)
+- **All lessons:** [Lesson list on the homepage]({{ site.baseurl }}/)
+
+**Tasks**
+
+- [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - lists, slicing, and loops (start after this lesson; dictionaries appear from task 11)
+- [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - revision for loops and `input` before you add lists
+
+**Tutorial**
+
+- [Tutorial 3.1]({{ site.baseurl }}/tutorials/3-1/) - guided project for this unit
