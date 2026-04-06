@@ -62,6 +62,10 @@ Read these in sequence within each unit before moving on.
 
 - [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - Lists and dictionaries: playlists, tallies, menus, slices, and a mixed list-plus-dict voting task, each with a solution page.
 
+### Unit 4
+
+- [Unit 4 tasks]({{ site.baseurl }}/tasks/4-functions/) - Functions: parameters, `return`, booleans, loops inside `def`, and a three-question addition quiz, each with a solution page.
+
 ---
 
 ## Tutorials

@@ -79,6 +79,7 @@ Use the return values in your main loop to update score or state.
 
 **Tasks**
 
+- [Unit 4 tasks]({{ site.baseurl }}/tasks/4-functions/) - scope, booleans, loops inside functions, and a short quiz with `main()`
 - [Unit 3 tasks]({{ site.baseurl }}/tasks/3-data-structures/) - refactor list and dictionary programs with small functions that return values
 - [Unit 2 tasks]({{ site.baseurl }}/tasks/2-control-flow/) - shorter programs for return values and control flow before Pygame
 
